@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-public class SeleniumExample {
+public class LoanCalculator {
 
     private static WebDriver driver;
     private static Actions actions;
